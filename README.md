@@ -1,7 +1,7 @@
 <h1 align="center">Climate Change - Live Coverage</h1>
 <h2 align="center">An API designed to extract articles regarding climate change from news websites across the globe.</h2>
 <p align="center">
-    <img src="https://imgur.com/a/YrnYCMu"/>
+    <img src="https://imgur.com/a/YrnYCMu">
 </p>
 
 
