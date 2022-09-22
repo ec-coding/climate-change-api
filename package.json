@@ -1,0 +1,25 @@
+{
+  "name": "climate-change-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ec-coding/climate-change-api.git"
+  },
+  "author": "Edwin Choi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ec-coding/climate-change-api/issues"
+  },
+  "homepage": "https://github.com/ec-coding/climate-change-api#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
